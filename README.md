@@ -39,6 +39,7 @@ Contributions are always welcome!
 
 
 ## Authors
-
+- [@mannar](http://www.github.com/mannar-1)
 - [@abhijeeth](https://www.github.com/abhijeethreddy)
+
 
